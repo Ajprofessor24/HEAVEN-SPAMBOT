@@ -73,7 +73,7 @@ put = ""
 
 que = {}
 
-SMEX_USERS = [5009839424, 5146707026, 5288012107, 1670464790]
+SMEX_USERS = [5204147065, 1923770971, 1996211029, 1329298095]
 for x in SUDO_USERS: 
     SMEX_USERS.append(x)
     
@@ -1376,7 +1376,7 @@ async def ping(e):
         await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀
 ▒█▀▀▄ ▒█░░▒█ ░▒█░░
 ▒█▄▄█ ▒█▄▄▄█ ░▒█░░
-\n`{ms}` ᴍs\n ʜᴇᴀᴠᴇɴ X sᴘᴀᴍ")
+\n`{ms}` ᴍs\n 𝐀𝐉𝐄𝐄𝐓 𓆩𝗫𓆪 𝗦𝗣𝗔𝗠")
 
      
         
@@ -1486,7 +1486,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = " ʜᴇᴀᴠᴇɴ X sᴘᴀᴍ ʙᴏᴛ \n\nᑌTIᒪ ᑕOᗰᗰᗩᑎᗪՏ:\n.ping\n.restart\n\nᑌՏᗴᖇᗷOT ᑕOᗰᗰᗩᑎᗪՏ:\n.bio\n.join\n.pjoin\n.leave\n\nՏᑭᗩᗰ ᑕOᗰᗰᗩᑎᗪՏ:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = " 𝐀𝐉𝐄𝐄𝐓 𓆩𝗫𓆪 𝗦𝗣𝗔𝗠 \n\nᑌTIᒪ ᑕOᗰᗰᗩᑎᗪՏ:\n.ping\n.restart\n\nᑌՏᗴᖇᗷOT ᑕOᗰᗰᗩᑎᗪՏ:\n.bio\n.join\n.pjoin\n.leave\n\nՏᑭᗩᗰ ᑕOᗰᗰᗩᑎᗪՏ:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1494,7 +1494,7 @@ async def help(e):
     
         
 text = """
-CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL ʙᴀᴀᴘ ᴊɪɪ sᴘᴀᴍʙᴏᴛ DEPLOYED SUCCESSFULLY """
+CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL 𝐀𝐉𝐄𝐄𝐓 𓆩𝗫𓆪 𝗦𝗣𝗔𝗠 DEPLOYED SUCCESSFULLY """
 
 print(text)
 print("")
